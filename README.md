@@ -9,7 +9,9 @@ The document includes both **English** and **Spanish** versions.
 
 You can view the full Markdown file here:
 
-- [Design Patterns Summary]()
+- [Design Patterns Summary (Markdown)](https://github.com/albertollamass/design-patterns/blob/main/DesignPatterns.md)
+
+- [Design Patterns Summary (Pdf)](https://github.com/albertollamass/design-patterns/blob/main/DesignPatterns.pdf)
 
 ---
 
